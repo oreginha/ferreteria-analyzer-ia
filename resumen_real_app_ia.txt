@@ -1,0 +1,154 @@
+=== ANÁLISIS INTELIGENTE CON REESTRUCTURACIÓN DE DATOS ===
+PLANILLA: FERRETERIA
+TOTAL REGISTROS ORIGINALES: 30,439
+TOTAL PRODUCTOS REESTRUCTURADOS: 30,433
+EFICIENCIA DE REESTRUCTURACIÓN: 100.0%
+
+=== PROVEEDORES CON DATOS REESTRUCTURADOS ===
+CRIMARAL:
+  • Productos reestructurados: 6,493
+  • Con precio detectado: 6,491 (100.0%)
+  • Con código identificado: 2,653 (40.9%)
+  • Con marca detectada: 524 (8.1%)
+  • Muestra de productos reestructurados:
+    1. CÓDIGO: None
+       DESCRIPCIÓN: No incluye IVA - Precios sujetos a variacin sin pr...
+       PRECIO: None ARS
+       MARCA: None
+    2. CÓDIGO: None
+       DESCRIPCIÓN: Dlar: $ 1,100,00 Dlar: $ 1,100,00...
+       PRECIO: 110000.0 USD
+       MARCA: None
+    3. CÓDIGO: None
+       DESCRIPCIÓN: Dlar: $ 1,100,00...
+       PRECIO: 110000.0 USD
+       MARCA: None
+ANCAIG:
+  • Productos reestructurados: 2,218
+  • Con precio detectado: 2,160 (97.4%)
+  • Con código identificado: 21 (0.9%)
+  • Con marca detectada: 0 (0.0%)
+  • Muestra de productos reestructurados:
+    1. CÓDIGO: None
+       DESCRIPCIÓN: 02/12/2024...
+       PRECIO: 2.0 ARS
+       MARCA: None
+    2. CÓDIGO: None
+       DESCRIPCIÓN: Los importes en rojo cambiaron en los ultimos 15 d...
+       PRECIO: 15.0 ARS
+       MARCA: None
+    3. CÓDIGO: PRECIOS
+       DESCRIPCIÓN: precios...
+       PRECIO: None ARS
+       MARCA: None
+FERRETERIA:
+  • Productos reestructurados: 104
+  • Con precio detectado: 102 (98.1%)
+  • Con código identificado: 84 (80.8%)
+  • Con marca detectada: 0 (0.0%)
+  • Muestra de productos reestructurados:
+    1. CÓDIGO: None
+       DESCRIPCIÓN: FERRETERIA "C&M"...
+       PRECIO: None ARS
+       MARCA: None
+    2. CÓDIGO: CODIGO
+       DESCRIPCIÓN: CODIGO DESCRIPCION PROVEEDOR PRECIO STOCK V.COSTO ...
+       PRECIO: None ARS
+       MARCA: None
+    3. CÓDIGO: CARLOS
+       DESCRIPCIÓN: CLORO EN BIDON FRONTIER CARLOS $ 7.000,00 envase $...
+       PRECIO: 3.0 ARS
+       MARCA: None
+HERRAMETAL:
+  • Productos reestructurados: 7,747
+  • Con precio detectado: 7,006 (90.4%)
+  • Con código identificado: 911 (11.8%)
+  • Con marca detectada: 0 (0.0%)
+  • Muestra de productos reestructurados:
+    1. CÓDIGO: None
+       DESCRIPCIÓN: herrametal s.a. herrajes y cerraduras...
+       PRECIO: None ARS
+       MARCA: None
+    2. CÓDIGO: None
+       DESCRIPCIÓN: Florencio Varela 1236 - Lans Oeste - (C.P. B1824AD...
+       PRECIO: 1236.0 ARS
+       MARCA: None
+    3. CÓDIGO: None
+       DESCRIPCIÓN: Tel.: (011) 4241 6881 (Lineas rotativas) - Fax .: ...
+       PRECIO: 11.0 ARS
+       MARCA: None
+YAYI:
+  • Productos reestructurados: 7,541
+  • Con precio detectado: 7,022 (93.1%)
+  • Con código identificado: 4,769 (63.2%)
+  • Con marca detectada: 0 (0.0%)
+  • Muestra de productos reestructurados:
+    1. CÓDIGO: YAYI
+       DESCRIPCIÓN: YAYI...
+       PRECIO: None ARS
+       MARCA: None
+    2. CÓDIGO: None
+       DESCRIPCIÓN: BUSCADOR RAPIDO:...
+       PRECIO: None ARS
+       MARCA: None
+    3. CÓDIGO: None
+       DESCRIPCIÓN: CALCULADORA PARA VENDER CAOS ALUMINIO O COBRE POR ...
+       PRECIO: None ARS
+       MARCA: None
+BABUSI:
+  • Productos reestructurados: 472
+  • Con precio detectado: 470 (99.6%)
+  • Con código identificado: 46 (9.7%)
+  • Con marca detectada: 0 (0.0%)
+  • Muestra de productos reestructurados:
+    1. CÓDIGO: None
+       DESCRIPCIÓN: Distribuidora Babusi S.A. 25/07/2023...
+       PRECIO: 25.0 ARS
+       MARCA: None
+    2. CÓDIGO: None
+       DESCRIPCIÓN: Los importes resaltados en amarillo se facturan, s...
+       PRECIO: None ARS
+       MARCA: None
+    3. CÓDIGO: None
+       DESCRIPCIÓN: COD. Descripcion del Producto PRECIO FINAL...
+       PRECIO: None ARS
+       MARCA: None
+FERRIPLAST:
+  • Productos reestructurados: 5,858
+  • Con precio detectado: 5,854 (99.9%)
+  • Con código identificado: 5,705 (97.4%)
+  • Con marca detectada: 2 (0.0%)
+  • Muestra de productos reestructurados:
+    1. CÓDIGO: METRO
+       DESCRIPCIÓN: METRO...
+       PRECIO: None ARS
+       MARCA: None
+    2. CÓDIGO: None
+       DESCRIPCIÓN: Tel. 4210-0169 Fax. 4210-6065 E-mail. ferriplastsr...
+       PRECIO: 4210.0 ARS
+       MARCA: None
+    3. CÓDIGO: None
+       DESCRIPCIÓN: www.ferriplast.com.ar...
+       PRECIO: None ARS
+       MARCA: None
+
+=== ANÁLISIS DE CALIDAD DE REESTRUCTURACIÓN ===
+Productos con precio extraído: 29,105 (95.6%)
+Productos con código identificado: 14,189 (46.6%)
+
+=== RECOMENDACIONES DE REESTRUCTURACIÓN ===
+• ANCAIG: Implementar códigos de producto - 2,197 productos sin código
+• HERRAMETAL: Implementar códigos de producto - 6,836 productos sin código
+• BABUSI: Implementar códigos de producto - 426 productos sin código
+
+=== INFORMACIÓN CONTEXTUAL ===
+Este análisis se basa en datos REESTRUCTURADOS INTELIGENTEMENTE.
+Los datos han sido procesados para identificar correctamente:
+- CÓDIGOS DE PRODUCTOS separados de descripciones
+- PRECIOS extraídos y clasificados por moneda
+- PROVEEDORES organizados por hoja
+- MARCAS detectadas automáticamente
+- DESCRIPCIONES limpias y optimizadas
+- DUPLICADOS eliminados automáticamente
+
+USA ESTE ANÁLISIS PARA RECOMENDAR MEJORAS EN LA ESTRUCTURACIÓN DE DATOS.
