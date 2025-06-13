@@ -1,4 +1,4 @@
 @echo off 
-cd /d "D:\Documentos y Archivos\Excel\PLANILLA FERRETERIA _archivos\" 
+cd /d "D:\proyectos facu\ferreteria-analyzer-ia\" 
 python ferreteria_analyzer_app.py 
 pause 

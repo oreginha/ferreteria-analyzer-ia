@@ -1,0 +1,42 @@
+{
+  "resumen_general": {
+    "total_productos": 1179,
+    "productos_con_precio": 8,
+    "rango_precios": "$2003.53 - $22993.72",
+    "precio_promedio": "$6786.30"
+  },
+  "categorias": {
+    "General": {
+      "total_productos": 1179,
+      "productos_destacados": [
+        {
+          "descripcion": "FEBRERO",
+          "precio": "",
+          "codigo": "7700000",
+          "proveedor": "YAYI",
+          "categoria": "General"
+        },
+        {
+          "descripcion": "0,00",
+          "precio": "",
+          "codigo": "7700001",
+          "proveedor": "YAYI",
+          "categoria": "General"
+        },
+        {
+          "descripcion": "PESTAA para actualizacin de CODIGOS y PRECIOS de programas AUTOMATICOS",
+          "precio": "",
+          "codigo": "27984276",
+          "proveedor": "YAYI",
+          "categoria": "General"
+        }
+      ]
+    }
+  },
+  "recomendaciones": [
+    "Revisar productos sin precio asignado",
+    "Verificar consistencia en códigos de productos",
+    "Considerar análisis de competitividad de precios"
+  ],
+  "fecha_analisis": "2025-06-13T01:51:03.013132"
+}

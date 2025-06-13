@@ -1,32 +1,32 @@
 {
   "resumen_general": {
-    "total_productos": 1179,
-    "productos_con_precio": 8,
-    "rango_precios": "$2003.53 - $22993.72",
-    "precio_promedio": "$6786.30"
+    "total_productos": 3517,
+    "productos_con_precio": 151,
+    "rango_precios": "$3.52 - $890090700.00",
+    "precio_promedio": "$10556306.17"
   },
   "categorias": {
     "General": {
-      "total_productos": 1179,
+      "total_productos": 3517,
       "productos_destacados": [
+        {
+          "descripcion": "CAO ALUMINIO GAS",
+          "precio": ".",
+          "codigo": "",
+          "proveedor": "YAYI",
+          "categoria": "General"
+        },
+        {
+          "descripcion": "CUANTO COBRAR AL CLIENTE SI ES ALUMINIO",
+          "precio": ".",
+          "codigo": "",
+          "proveedor": "YAYI",
+          "categoria": "General"
+        },
         {
           "descripcion": "FEBRERO",
           "precio": "",
           "codigo": "7700000",
-          "proveedor": "YAYI",
-          "categoria": "General"
-        },
-        {
-          "descripcion": "0,00",
-          "precio": "",
-          "codigo": "7700001",
-          "proveedor": "YAYI",
-          "categoria": "General"
-        },
-        {
-          "descripcion": "PESTAA para actualizacin de CODIGOS y PRECIOS de programas AUTOMATICOS",
-          "precio": "",
-          "codigo": "27984276",
           "proveedor": "YAYI",
           "categoria": "General"
         }
@@ -38,5 +38,5 @@
     "Verificar consistencia en códigos de productos",
     "Considerar análisis de competitividad de precios"
   ],
-  "fecha_analisis": "2025-06-13T01:51:03.013132"
+  "fecha_analisis": "2025-06-13T16:29:02.326535"
 }
